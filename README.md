@@ -4,6 +4,8 @@
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDeMattiaScoti&show_icons=true&theme=bear)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
 ### Tecnologias diárias 💻
 
 <div style="display: inline_bock"><br/>
