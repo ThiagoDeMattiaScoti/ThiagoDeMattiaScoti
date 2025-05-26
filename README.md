@@ -13,4 +13,3 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
 
-Dar tudo de você para ser melhor de quem era ontem.
